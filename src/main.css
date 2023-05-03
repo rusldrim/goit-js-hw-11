@@ -55,7 +55,7 @@ button:hover {
 
 .gallery__link:hover,
 .gallery__link:focus {
-    transform: scale(0.95);
+    transform: scale(0.9);
 }
 
 .gallery-item {
